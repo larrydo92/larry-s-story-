@@ -1,10 +1,10 @@
 body{border:20px solid black;} 
-body{background-color:red;}
+body{background-color:yellow;}
 div{Display:none;} 
 div{margin top: 20px;margin right;10px;margin left;10px}
 img{float:right;} 
-.header{background-color:#F1F1F1}
+.header{background-color:#F1F1F1;}
 .topnav{overflow: hidden; background-color: red;}
 .column{float: left;}
-.footer{background-color:#F1F1F1}
+.footer{background-color:#F1F1F1;}
 @media screen and  (max-width: 800px) {.leftcolumn, .rightcolumn {width: 100%; padding:0}
